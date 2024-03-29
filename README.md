@@ -1,4 +1,4 @@
-# 08 - Music
+# Zero To Mastery Vue Course Music player app
 
 This template should help get you started developing with Vue 3 in Vite.
 
