@@ -1,0 +1,52 @@
+{
+  "header": {
+    "about": "About",
+    "login": "Login / Register",
+    "manage": "Manage",
+    "logout": "Log Out"
+  },
+  "home": {
+    "listen": "Listen to Great Music!",
+    "songs": "Songs"
+  },
+  "upload": {
+    "title": "Upload",
+    "drag_n_drop": "Drop Your files here"
+  },
+  "manage": {
+    "my_songs": "My Songs"
+  },
+  "song": {
+    "comment_count": "No comments | 1 comment | {count} comments"
+  },
+  "auth": {
+    "title": "Your Account",
+    "login": "Login",
+    "register": "Register",
+    "email_placeholder": "Enter Email",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "name": "Enter Name",
+    "age": "Age",
+    "country": "Country"
+  },
+  "about": {
+    "text": "This is an about page"
+  },
+  "comment": {
+    "comment_placeholder": "Your comment here...",
+    "post": "Submit",
+    "latest": "Latest",
+    "oldest": "Oldest"
+  },
+  "register": {
+    "accept": "I accept Music's {0}",
+    "tos": "Terms of Service"
+  },
+  "edit": {
+    "title": "Song Title",
+    "genre": "Genre",
+    "submit": "Submit",
+    "back": "Go Back"
+  }
+}

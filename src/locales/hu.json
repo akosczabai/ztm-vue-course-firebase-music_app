@@ -1,0 +1,53 @@
+{
+  "header": {
+    "about": "Rólunk",
+    "login": "Bejelentkezés / Regisztráció",
+    "manage": "Kezelés",
+    "logout": "Kijelentkezés"
+  },
+  "home": {
+    "listen": "Hallgass jó zenét!",
+    "songs": "Zenék"
+  },
+  "upload": {
+    "title": "Feltöltés",
+    "drag_n_drop": "Dobd ide a fájlokat"
+  },
+  "manage": {
+    "my_songs": "Én Zenéim"
+  },
+  "auth": {
+    "title": "A Te fiókod",
+    "login": "Bejelentkezés",
+    "register": "Regisztráció",
+    "email_placeholder": "Adj meg egy Email-t",
+    "password": "Jelszó",
+    "password_placeholder": "Jelszó",
+    "confirm_password": "Jelszó Megerősítése",
+    "name": "Név megadása",
+    "age": "Kor",
+    "country": "Ország"
+  },
+  "about": {
+    "text": "Ez egy rólunk oldal"
+  },
+  "song": {
+    "comment_count": "Nincs Komment|  {count} Komment"
+  },
+  "comment": {
+    "comment_placeholder": "Írd ide a kommented...",
+    "post": "Küldés",
+    "latest": "Legújabb",
+    "oldest": "Legrégebbi"
+  },
+  "register": {
+    "accept": "Elfogadom a Music {0}",
+    "tos": "Felhasználási feltételeit"
+  },
+  "edit": {
+    "title": "Cím",
+    "genre": "Műfaj",
+    "submit": "Küldés",
+    "back": "Vissza"
+  }
+}
